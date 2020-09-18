@@ -1,2 +1,1 @@
-# C-software
-A Software with excellent GUI and various tools with C Programming
+# Bank software Library (in C)
