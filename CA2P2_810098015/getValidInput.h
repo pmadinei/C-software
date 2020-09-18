@@ -1,0 +1,1 @@
+int getValidInput(char map[8][8], char turn,int *positionX, int *positionY);

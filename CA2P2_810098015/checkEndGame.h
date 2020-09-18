@@ -1,0 +1,1 @@
+int checkEndGame(char map[8][8], char turn);

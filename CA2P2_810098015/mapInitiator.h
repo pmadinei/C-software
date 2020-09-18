@@ -1,0 +1,1 @@
+void mapInitiator(char map[8][8]);
